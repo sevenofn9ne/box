@@ -64,11 +64,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442406964439-e46ab8eff7c4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446051642017-6d07a440087f-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
