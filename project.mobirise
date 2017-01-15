@@ -109,7 +109,7 @@
             "bgColor": "#0e0e0e",
             "showMeta": true
           },
-          "title": "<p><a href=\"https://raw.githubusercontent.com/sevenofn9ne/box/master/Contra-ChillMix.mp3\" class=\"text-info\">Contra-ChillMix</a></p><p>Hive,_Keaton,_Gridlok__Echo-Violent_Sound</p><a href=\"https://raw.githubusercontent.com/sevenofn9ne/box/master/NoisiaRadio-E04-Cut01.mp3\" class=\"text-info\">NoisiaRadio-E04-Cut01</a><br>NoisiaRadio-E04-Cut02<br>Sofie Letitre - Bare (Jai Tee Remix) (Syra Cut)<br>The Qemists - Stompbox (Spor remix)<a href=\"https://raw.githubusercontent.com/sevenofn9ne/box/master/NoisiaRadio-E04-Cut01.mp3\" class=\"text-info\"><br></a><br><p><br></p>",
+          "title": "<p><a href=\"https://raw.githubusercontent.com/sevenofn9ne/box/master/Contra-ChillMix.mp3\" class=\"text-info\">Contra-ChillMix</a></p><p>Hive,_Keaton,_Gridlok__Echo-Violent_Sound</p><a href=\"https://raw.githubusercontent.com/sevenofn9ne/box/master/NoisiaRadio-E04-Cut01.mp3\" class=\"text-info\">NoisiaRadio-E04-Cut01</a><br><span style=\"font-size: 3rem; line-height: 1.1;\">NoisiaRadio-E04-Cut02</span><br>Sofie Letitre - Bare (Jai Tee Remix) (Syra Cut)<br>The Qemists - Stompbox (Spor remix)",
           "meta": ""
         }
       ]
